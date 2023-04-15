@@ -1,0 +1,19 @@
+.transactionBody tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+.transactionBody tr:nth-child(even) {
+  background-color: #e0c8e0;
+}
+
+.transactionHeader {
+  background-color: #e495e4;
+}
+
+.transactionHistory {
+  margin: 0 auto;
+  border-collapse: collapse;
+  border: 1px solid black;
+  width: 300px;
+  text-align: center;
+}
